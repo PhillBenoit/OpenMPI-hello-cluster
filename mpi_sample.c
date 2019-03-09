@@ -3,7 +3,11 @@
 #include "unistd.h"
 #include "mpi.h"
 
-//see this run at https://youtu.be/WPt4W0JNVDA
+//watch this run at:
+//https://youtu.be/WPt4W0JNVDA
+
+//build guide for the machine I used to test this code:
+//https://forum.pine64.org/showthread.php?tid=7077
 
 //entry point
 int main(int argc, char* argv[]){
